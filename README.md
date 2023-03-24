@@ -1,6 +1,6 @@
 <div align="left">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbae11&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbae0&layout=compact" />
   
   ## 👨‍💻 Eunbae
   
